@@ -1,0 +1,5 @@
+foto = 1061030_disintegration_-_hdr
+
+foto1 = 904370_velorex
+
+foto2 = 975866_derelict

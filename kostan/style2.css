@@ -1,0 +1,111 @@
+#body
+{
+	background-color:#F5FFFA;
+	background-repeat: repeat-x;
+}
+#p
+{
+	color : green;
+}
+#kotakjudul
+{
+	line-height:15px;
+	background-color:#eeeeee;
+	height : auto;
+	width : 250px;
+	float : right;
+	padding : 5px;
+	border-radius :10px;
+}
+.login
+{
+	width : 400px;
+	padding : 10px 10px 10px 10px;
+	border : 2px solid #000;
+	border-radius : 10px;
+	margin : auto;
+	border-color : #32CD32;
+	color : blue;
+	float : center
+}
+.tanpa
+{
+	background-color:white; 
+	color:black; 
+	padding:20px;
+	position :center;
+	border-color : black;
+	border-radius :10px;
+	float : center;
+	margin : auto;
+}
+
+table#t01
+{
+	position : center;
+	width : 100%;
+	background-color : blue;
+	padding :10px 10px 10px 10px;
+	
+}
+table#t02
+{
+	position : center;
+	width : 100%;
+	background-color : blue;
+	border : 1px;
+	padding-bottom : 5px;
+}
+table#t03
+{
+	position : center;
+	border : 1px;
+	padding : 10px 10px 10px 10px;
+	background-color : blue;
+	border-radius:20px;
+}
+table#04
+{
+	position : center;
+	width : 10%;
+	background-color : blue;
+	border : 1px;
+	padding-bottom : 5px;
+	border-radius : 10px;
+	float : right;
+}
+table#05
+{
+	width : 520px;
+	border :1;
+	float : center; 
+	border-color:#FAFAD2 ;
+	background-color:#FFFAF0;
+	border-radius : 10px;
+}
+table#t06
+{
+	position : center;
+	width : 100%;
+	background-color : blue;
+	padding :10px 10px 10px 10px;
+	border-radius : 10px;
+}
+table#t07
+{
+	position : center;
+	width : 100%;
+	background-color : blue;
+	border : 1px;
+	padding-bottom : 5px;
+	border-radius : 5px;
+}
+#footer1
+{
+	background-color :#32CD32;
+	color : white;
+	clear : both;
+	text-align : center;
+	padding : 5px;
+}
+	
